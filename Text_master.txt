@@ -1,1 +1,1 @@
-Esto se escribió desde el master
+Esto se escribió desde el master y desde la rama3 ajustando conflictos.
